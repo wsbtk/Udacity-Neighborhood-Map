@@ -1,7 +1,5 @@
 
 ## Setup Instructions
-- `git clone https://github.com/elharony/Udacity-P8-Neighborhood-Map-Project-Explained.git`
-- `cd Udacity-P8-Neighborhood-Map-Project-Explained`
 - `npm install`
 - `npm start`
 
